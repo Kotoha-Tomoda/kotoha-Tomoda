@@ -1,32 +1,48 @@
-# 👋 Hi, I'm **Kotoha**
+# 🌌 Hi, I'm **Kotoha** 🎋
 
-**iOS Developer (Swift / SwiftUI) — University Student in Japan**
-
----
-
-## 🎋 About Me
-
-First-year university student in Japan
-Programming experience: **less than 2 years**
-
-Currently focusing on **Swift** and **SwiftUI**
+> **Coding my way through the Milky Way 💫**
+> **iOS Developer (Swift / SwiftUI)  University Student**
 
 ---
 
-## 🛠 Tech Stack
+## 🌙 About Me
 
-**Swift / SwiftUI**
-**Git / GitHub**
-**Figma**
+Hello! I'm a first-year university student in Japan.
+Just like weaving a story, I love creating apps. 🧵✨
+Programming experience: **less than 2 years** 🐣
 
----
-
-## 📚 What I'm Learning Now
-
-**Swift** 
+Currently gazing at the stars of **Swift** and **SwiftUI**.
 
 ---
 
-## ✉️ Contact
+## 🌟 My Constellation (Tech Stack)
 
-If you'd like to reach out, feel free to DM me on **X (Twitter)**.
+Here are the tools I use to build my universe:
+
+| **Main Star** | **Tools** | **Design** |
+| :---: | :---: | :---: |
+| 🍎 **Swift / SwiftUI** | 🐙 **Git / GitHub** | 🎨 **Figma** |
+
+---
+
+## 🎋 My Wishes (Learning Now)
+
+Writing my goals on a Tanzaku...🖊️
+
+> 🎋 **"I want to master Swift deeply!"**
+>
+> Focusing on learning **Swift** fundamentals and advanced concepts.
+
+---
+
+## 🌉 Let's Connect
+
+Let's meet across the Milky Way!
+Feel free to DM me on **X (Twitter)**. 💌
+
+🐦 **X (Twitter):** [Your_ID_Here](#)
+
+---
+<div align="center">
+  <p>✨ <i>Thanks for visiting my profile!</i> ✨</p>
+</div>
