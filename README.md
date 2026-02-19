@@ -35,14 +35,6 @@ Writing my goals on a Tanzaku...🖊️
 
 ---
 
-## 🌉 Let's Connect
-
-Let's meet across the Milky Way!
-Feel free to DM me on **X (Twitter)**. 💌
-
-🐦 **X (Twitter):** [Your_ID_Here](#)
-
----
 <div align="center">
   <p>✨ <i>Thanks for visiting my profile!</i> ✨</p>
 </div>
