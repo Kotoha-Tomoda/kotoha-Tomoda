@@ -7,7 +7,7 @@
 
 ## 🌙 About Me
 
-Hello! I'm a first-year university student in Japan.
+Hello! I'm a second-year university student in Japan.
 Just like weaving a story, I love creating apps. 🧵✨
 Programming experience: **less than 2 years** 🐣
 
